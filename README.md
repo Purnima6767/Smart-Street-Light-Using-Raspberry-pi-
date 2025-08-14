@@ -1,5 +1,8 @@
 # Smart-Street-Light-Using-Raspberry-pi-
+overview:-
+ "An Automatic smart street light using raspberry pi is an intelligent system of street light which minimizes the problem of electricity power consumption which is caused late at night when the streets are working. The system is designed using LED, IR sensor, SD card, with all these components which are connected and controlled using raspberry pi. This system will detect the vehicle and it turns the street light to full intensity when the vehicle passes and the street lights are automatically tuned to low intensity if not required."
 
+Program for interfacing::-
 import RPi.GPIO as IO
 import time
 IO.setwarnings(False)
